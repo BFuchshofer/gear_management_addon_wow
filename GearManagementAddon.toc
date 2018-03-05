@@ -1,0 +1,11 @@
+## Interface: 70350
+## Title:: GearManagementAddon
+## Version: 0.8
+## Notes: My Gear management addon
+## Author: LittleGundam
+## SavedVariables: Data
+## SavedVariablesPerCharacter: DataChar, GearSet, Rules, CharStats
+## DefaultState: disabled
+
+
+init.lua
