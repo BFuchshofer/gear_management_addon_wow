@@ -1,0 +1,1 @@
+# gear_management_addon_wow
